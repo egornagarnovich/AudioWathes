@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{742C5E7D-9E0B-4D0E-BAD0-C2AA408DD8E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.wathes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wathes/PathToAudioFile.cs">
+    <Files>
+      <File FileName="wathes/Program.cs" Line="1" Column="1" />
+      <File FileName="wathes/TimeParser.cs" Line="1" Column="1" />
+      <File FileName="wathes/SimpleSound.cs" Line="1" Column="1" />
+      <File FileName="wathes/PathToAudioFile.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
